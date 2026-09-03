@@ -1,0 +1,31 @@
+{
+  "name": "文境寻踪 · 华夏文脉",
+  "short_name": "文境寻踪",
+  "description": "AI 沉浸式汉字文化学习工具，四时代 × 五身份 × 36 字 × 51 藏品",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17181c",
+  "theme_color": "#c2402f",
+  "orientation": "portrait-primary",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "./icon-100x100.png",
+      "type": "image/png",
+      "sizes": "100x100",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
